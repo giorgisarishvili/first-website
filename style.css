@@ -1,0 +1,40 @@
+.Heading{
+    background-image: inherit;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 230px;
+    text-align: center;
+    margin-top: 2%;
+    border-radius: 20px;
+
+}
+.img{
+    margin-top: 0.5%;
+    height: 120px;
+    border-radius: 15%;
+
+}
+.heading_text{
+    color:rgb(133, 133, 197);
+}
+.firstbox{
+    margin-left: 4%;
+    width: 200px;
+    background-color: blueviolet;
+    border-radius: 30px;
+
+}
+.secondbox{
+    width: 700px;
+    margin-left: 130px;
+    margin-top: 60px;
+    border-radius: 15px;
+}
+.thirdbox{
+    margin-right: 4%;
+    width: 200px;
+    background-color: aquamarine;
+    border-radius: 30px;
+    
+
+}
